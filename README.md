@@ -12,12 +12,11 @@
 
 ## 🛠️ Tech Stack
 
-* React
-* Tailwind CSS
-* Browser Local Storage
-* AI-assisted development using vibecoding tools
-
-*Update this section if your final implementation uses additional technologies or a different stack.*
+* React 18 with TypeScript for the UI and type safety
+* Vite 7 as the build tool and dev server
+* Tailwind CSS 3 for styling
+* lucide-react for icons
+* Browser localStorage for saving study progress (no backend or login required)
 
 ## 🚀 Getting Started
 
